@@ -1,0 +1,5 @@
+@media (min-width: 1440px) {
+  .container-xxl {
+    max-width: 1320px;
+  }
+}
